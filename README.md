@@ -36,7 +36,7 @@ Create a .env file in the root directory of the project, and add the following e
 
 ```
 MONGO_HOST=mongodb://localhost:27017
-DB_NAME=FullstackFastAPI
+DB_NAME=dashboard
 CLIENT_SECRET=RANDOMSEKRETDOANGINIMAHTAPIKUDU32
 ```
 
