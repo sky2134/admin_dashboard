@@ -20,7 +20,7 @@ MongoDB
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/arkrwn/FullstakFastAPI.git
+git clone https://github.com/sky2134/admin_dashboard.git
 cd FullstakFastAPI
 ```
 
